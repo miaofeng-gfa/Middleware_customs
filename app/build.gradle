@@ -1,0 +1,79 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "28.0.1"
+
+    defaultConfig {
+        applicationId "cn.com.gfa.ware"
+        minSdkVersion 9
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard.cfg'
+        }
+    }
+
+    aaptOptions.cruncherEnabled = false
+
+    aaptOptions.useNewCruncher = false
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:support-v4:18.0.0'
+    implementation files('libs/BaiduLBS_Android.jar')
+    implementation files('libs/BaiduNaviSDK_2.0.jar')
+    implementation files('libs/commons-io-1.3.2.jar')
+    implementation files('libs/httpmime-4.1.2.jar')
+    implementation files('libs/libammsdk.jar')
+    implementation files('libs/locSDK_5.2.jar')
+    implementation files('libs/MobCommons.jar')
+    implementation files('libs/MobTools.jar')
+    implementation files('libs/pushservice-4.5.6.88.jar')
+    implementation files('libs/ShareSDK-Alipay-2.6.4.jar')
+    implementation files('libs/ShareSDK-Bluetooth-2.6.4.jar')
+    implementation files('libs/ShareSDK-Core-2.6.4.jar')
+    implementation files('libs/ShareSDK-Douban-2.6.4.jar')
+    implementation files('libs/ShareSDK-Dropbox-2.6.4.jar')
+    implementation files('libs/ShareSDK-Email-2.6.4.jar')
+    implementation files('libs/ShareSDK-Evernote-2.6.4.jar')
+    implementation files('libs/ShareSDK-Facebook-2.6.4.jar')
+    implementation files('libs/ShareSDK-FacebookMessenger-2.6.4.jar')
+    implementation files('libs/ShareSDK-Flickr-2.6.4.jar')
+    implementation files('libs/ShareSDK-Foursquare-2.6.4.jar')
+    implementation files('libs/ShareSDK-GooglePlus-2.6.4.jar')
+    implementation files('libs/ShareSDK-Instagram-2.6.4.jar')
+    implementation files('libs/ShareSDK-Instapaper-2.6.4.jar')
+    implementation files('libs/ShareSDK-KaiXin-2.6.4.jar')
+    implementation files('libs/ShareSDK-Kakao-Core-2.6.4.jar')
+    implementation files('libs/ShareSDK-KakaoStory-2.6.4.jar')
+    implementation files('libs/ShareSDK-KakaoTalk-2.6.4.jar')
+    implementation files('libs/ShareSDK-Line-2.6.4.jar')
+    implementation files('libs/ShareSDK-Linkedin-2.6.4.jar')
+    implementation files('libs/ShareSDK-Mingdao-2.6.4.jar')
+    implementation files('libs/ShareSDK-Pinterest-2.6.4.jar')
+    implementation files('libs/ShareSDK-Pocket-2.6.4.jar')
+    implementation files('libs/ShareSDK-QQ-2.6.4.jar')
+    implementation files('libs/ShareSDK-QZone-2.6.4.jar')
+    implementation files('libs/ShareSDK-Renren-2.6.4.jar')
+    implementation files('libs/ShareSDK-ShortMessage-2.6.4.jar')
+    implementation files('libs/ShareSDK-SinaWeibo-2.6.4.jar')
+    implementation files('libs/ShareSDK-SohuSuishenkan-2.6.4.jar')
+    implementation files('libs/ShareSDK-TencentWeibo-2.6.4.jar')
+    implementation files('libs/ShareSDK-Tumblr-2.6.4.jar')
+    implementation files('libs/ShareSDK-Twitter-2.6.4.jar')
+    implementation files('libs/ShareSDK-VKontakte-2.6.4.jar')
+    implementation files('libs/ShareSDK-Wechat-2.6.4.jar')
+    implementation files('libs/ShareSDK-Wechat-Core-2.6.4.jar')
+    implementation files('libs/ShareSDK-Wechat-Favorite-2.6.4.jar')
+    implementation files('libs/ShareSDK-Wechat-Moments-2.6.4.jar')
+    implementation files('libs/ShareSDK-WhatsApp-2.6.4.jar')
+    implementation files('libs/ShareSDK-Yixin-2.6.4.jar')
+    implementation files('libs/ShareSDK-Yixin-Core-2.6.4.jar')
+    implementation files('libs/ShareSDK-Yixin-Moments-2.6.4.jar')
+    implementation files('libs/ShareSDK-YouDao-2.6.4.jar')
+}

@@ -1,0 +1,118 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* keystore\
+* keystore\debug.keystore
+* proguard-project.txt
+* proguard\
+* proguard\dump.txt
+* proguard\mapping.txt
+* proguard\seeds.txt
+* proguard\usage.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\armeabi\libapp_BaiduNaviApplib.so => app\src\main\jniLibs\armeabi\libapp_BaiduNaviApplib.so
+* libs\armeabi\libapp_BaiduVIlib.so => app\src\main\jniLibs\armeabi\libapp_BaiduVIlib.so
+* libs\armeabi\libBaiduMapSDK_v3_5_0_31.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_v3_5_0_31.so
+* libs\armeabi\libbd_etts.so => app\src\main\jniLibs\armeabi\libbd_etts.so
+* libs\armeabi\libbdpush_V2_4.so => app\src\main\jniLibs\armeabi\libbdpush_V2_4.so
+* libs\armeabi\libbds.so => app\src\main\jniLibs\armeabi\libbds.so
+* libs\armeabi\libBDSpeechDecoder_V1.so => app\src\main\jniLibs\armeabi\libBDSpeechDecoder_V1.so
+* libs\armeabi\libcurl.so => app\src\main\jniLibs\armeabi\libcurl.so
+* libs\armeabi\libgnustl_shared.so => app\src\main\jniLibs\armeabi\libgnustl_shared.so
+* libs\armeabi\liblocSDK5.so => app\src\main\jniLibs\armeabi\liblocSDK5.so
+* libs\BaiduLBS_Android.jar => app\libs\BaiduLBS_Android.jar
+* libs\BaiduNaviSDK_2.0.jar => app\libs\BaiduNaviSDK_2.0.jar
+* libs\commons-io-1.3.2.jar => app\libs\commons-io-1.3.2.jar
+* libs\httpmime-4.1.2.jar => app\libs\httpmime-4.1.2.jar
+* libs\libammsdk.jar => app\libs\libammsdk.jar
+* libs\locSDK_5.2.jar => app\libs\locSDK_5.2.jar
+* libs\mips\libbdpush_V2_4.so => app\src\main\jniLibs\mips\libbdpush_V2_4.so
+* libs\MobCommons.jar => app\libs\MobCommons.jar
+* libs\MobTools.jar => app\libs\MobTools.jar
+* libs\pushservice-4.5.6.88.jar => app\libs\pushservice-4.5.6.88.jar
+* libs\ShareSDK-Alipay-2.6.4.jar => app\libs\ShareSDK-Alipay-2.6.4.jar
+* libs\ShareSDK-Bluetooth-2.6.4.jar => app\libs\ShareSDK-Bluetooth-2.6.4.jar
+* libs\ShareSDK-Core-2.6.4.jar => app\libs\ShareSDK-Core-2.6.4.jar
+* libs\ShareSDK-Douban-2.6.4.jar => app\libs\ShareSDK-Douban-2.6.4.jar
+* libs\ShareSDK-Dropbox-2.6.4.jar => app\libs\ShareSDK-Dropbox-2.6.4.jar
+* libs\ShareSDK-Email-2.6.4.jar => app\libs\ShareSDK-Email-2.6.4.jar
+* libs\ShareSDK-Evernote-2.6.4.jar => app\libs\ShareSDK-Evernote-2.6.4.jar
+* libs\ShareSDK-Facebook-2.6.4.jar => app\libs\ShareSDK-Facebook-2.6.4.jar
+* libs\ShareSDK-FacebookMessenger-2.6.4.jar => app\libs\ShareSDK-FacebookMessenger-2.6.4.jar
+* libs\ShareSDK-Flickr-2.6.4.jar => app\libs\ShareSDK-Flickr-2.6.4.jar
+* libs\ShareSDK-Foursquare-2.6.4.jar => app\libs\ShareSDK-Foursquare-2.6.4.jar
+* libs\ShareSDK-GooglePlus-2.6.4.jar => app\libs\ShareSDK-GooglePlus-2.6.4.jar
+* libs\ShareSDK-Instagram-2.6.4.jar => app\libs\ShareSDK-Instagram-2.6.4.jar
+* libs\ShareSDK-Instapaper-2.6.4.jar => app\libs\ShareSDK-Instapaper-2.6.4.jar
+* libs\ShareSDK-KaiXin-2.6.4.jar => app\libs\ShareSDK-KaiXin-2.6.4.jar
+* libs\ShareSDK-Kakao-Core-2.6.4.jar => app\libs\ShareSDK-Kakao-Core-2.6.4.jar
+* libs\ShareSDK-KakaoStory-2.6.4.jar => app\libs\ShareSDK-KakaoStory-2.6.4.jar
+* libs\ShareSDK-KakaoTalk-2.6.4.jar => app\libs\ShareSDK-KakaoTalk-2.6.4.jar
+* libs\ShareSDK-Line-2.6.4.jar => app\libs\ShareSDK-Line-2.6.4.jar
+* libs\ShareSDK-Linkedin-2.6.4.jar => app\libs\ShareSDK-Linkedin-2.6.4.jar
+* libs\ShareSDK-Mingdao-2.6.4.jar => app\libs\ShareSDK-Mingdao-2.6.4.jar
+* libs\ShareSDK-Pinterest-2.6.4.jar => app\libs\ShareSDK-Pinterest-2.6.4.jar
+* libs\ShareSDK-Pocket-2.6.4.jar => app\libs\ShareSDK-Pocket-2.6.4.jar
+* libs\ShareSDK-QQ-2.6.4.jar => app\libs\ShareSDK-QQ-2.6.4.jar
+* libs\ShareSDK-QZone-2.6.4.jar => app\libs\ShareSDK-QZone-2.6.4.jar
+* libs\ShareSDK-Renren-2.6.4.jar => app\libs\ShareSDK-Renren-2.6.4.jar
+* libs\ShareSDK-ShortMessage-2.6.4.jar => app\libs\ShareSDK-ShortMessage-2.6.4.jar
+* libs\ShareSDK-SinaWeibo-2.6.4.jar => app\libs\ShareSDK-SinaWeibo-2.6.4.jar
+* libs\ShareSDK-SohuSuishenkan-2.6.4.jar => app\libs\ShareSDK-SohuSuishenkan-2.6.4.jar
+* libs\ShareSDK-TencentWeibo-2.6.4.jar => app\libs\ShareSDK-TencentWeibo-2.6.4.jar
+* libs\ShareSDK-Tumblr-2.6.4.jar => app\libs\ShareSDK-Tumblr-2.6.4.jar
+* libs\ShareSDK-Twitter-2.6.4.jar => app\libs\ShareSDK-Twitter-2.6.4.jar
+* libs\ShareSDK-VKontakte-2.6.4.jar => app\libs\ShareSDK-VKontakte-2.6.4.jar
+* libs\ShareSDK-Wechat-2.6.4.jar => app\libs\ShareSDK-Wechat-2.6.4.jar
+* libs\ShareSDK-Wechat-Core-2.6.4.jar => app\libs\ShareSDK-Wechat-Core-2.6.4.jar
+* libs\ShareSDK-Wechat-Favorite-2.6.4.jar => app\libs\ShareSDK-Wechat-Favorite-2.6.4.jar
+* libs\ShareSDK-Wechat-Moments-2.6.4.jar => app\libs\ShareSDK-Wechat-Moments-2.6.4.jar
+* libs\ShareSDK-WhatsApp-2.6.4.jar => app\libs\ShareSDK-WhatsApp-2.6.4.jar
+* libs\ShareSDK-Yixin-2.6.4.jar => app\libs\ShareSDK-Yixin-2.6.4.jar
+* libs\ShareSDK-Yixin-Core-2.6.4.jar => app\libs\ShareSDK-Yixin-Core-2.6.4.jar
+* libs\ShareSDK-Yixin-Moments-2.6.4.jar => app\libs\ShareSDK-Yixin-Moments-2.6.4.jar
+* libs\ShareSDK-YouDao-2.6.4.jar => app\libs\ShareSDK-YouDao-2.6.4.jar
+* proguard.cfg => app\proguard.cfg
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

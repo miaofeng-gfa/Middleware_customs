@@ -1,0 +1,802 @@
+[
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_youdao.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_youdao.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mark_daohang.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\mark_daohang.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_pinterest.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_pinterest.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\gray.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_platform_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_platform_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_shake_to_share_back.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_whatsapp.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_whatsapp.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_ssdk_oks_skyblue_editpage_at_layout.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mark_bule.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\mark_bule.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_ok_selector.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\btn_ok_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_en.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_facebook.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_facebook.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_renren.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_renren.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_ssdk_oks_skyblue_share_platform_list.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_kakaotalk.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_yixinmoments.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_kakaostory.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kakaostory.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_mingdao.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_mingdao.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_whatsapp.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_whatsapp.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading1096.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\loading1096.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_googleplus_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_googleplus_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_pocket.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_pocket.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_foursquare.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_foursquare.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_baidutieba_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_baidutieba_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_douban.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_douban.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_googleplus.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_googleplus.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_editpage_image_bg.9.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_image_bg.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_sohumicroblog_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sohumicroblog_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_ssdk_oks_skyblue_share_platform_list_item.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_email.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_email.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_twitter.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_twitter.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_flickr.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_flickr.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_yixin.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_yixin.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_pinterest.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_pinterest.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_sohusuishenkan.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_pocket_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_pocket_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_youdao.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_youdao.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_bluetooth.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_bluetooth.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_bg.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\top_bg.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_instagram.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_instagram.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_tencentweibo.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_linkedin.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_linkedin.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_st.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_right_out.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\anim\\activity_right_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_facebook_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_facebook_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_title_back.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_title_back.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_mingdao.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_mingdao.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_email.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_email.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_foursquare_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_foursquare_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_auth_title_back.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_pocket.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_pocket.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_light_blue_point.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_light_blue_point.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_back_arr.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_wechatmoments_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechatmoments_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_kakaotalk.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_qzone.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_qzone.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_right_in.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\anim\\activity_right_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cancel_pressed.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\btn_cancel_pressed.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_linkedin_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_linkedin_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_sinaweibo_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sinaweibo_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_sohusuishenkan_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sohusuishenkan_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_whatsapp_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_whatsapp_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_evernote_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_evernote_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_tencentweibo.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_bluetooth.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_douban.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_douban.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_instapaper.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_instapaper.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_dropbox.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_dropbox.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_alipayshare_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_alipayshare_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_wechat_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_shortmessage_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_shortmessage_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_sohusuishenkan.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_main.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_linkedin.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_linkedin.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_kaixin.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_kaixin.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_tumblr.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_tumblr.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_editpage_close.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_close.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_wechat.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_wechat.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_tencentweibo_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_tencentweibo_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_facebook.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_facebook.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_wechatfavorite_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechatfavorite_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_facebookmessenger_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_facebookmessenger_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_yixinmoments_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_yixinmoments_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_to_right.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_wechatmoments.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ssdk_oks_skyblue_platform_list_item.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_ok_normal.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\btn_ok_normal.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_wechatfavorite.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_sinaweibo.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_vkontakte.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_vkontakte.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_platform_checked_disabled.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_wechatfavorite.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_facebookmessenger.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_facebookmessenger.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_to_left.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_1.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\layout_1.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cancel_selector.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\btn_cancel_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_line.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_line.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_dropbox_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_dropbox_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_laiwangmoments.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_laiwangmoments.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cancel.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\btn_cancel.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_sinaweibo.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_laiwangmoments.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_laiwangmoments.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_ssdk_oks_skyblue_editpage.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_vkontakte.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_vkontakte.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_wechat.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_actionbar_ok_btn.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_pinterest_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_pinterest_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_yixin.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_yixin.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_qq.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_qq.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup_down.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\popup_down.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_edittext_back.9.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_edittext_back.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_editpage_image_remove.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_tumblr_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_tumblr_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_kaixin_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kaixin_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mark_red.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\mark_red.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_vkontakte_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_vkontakte_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_shortmessage.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_shortmessage.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_kakaostory_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kakaostory_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_alipay.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_alipay.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_fixed.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\anim\\activity_fixed.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_line.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_line.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_googleplus.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_googleplus.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_auth_follow_cb_chd.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_title_shadow.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_title_shadow.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_auth_title_back.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_editpage_divider.9.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_divider.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_yixin_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_yixin_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_yaoyiyao.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_foursquare.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_foursquare.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_img_cancel.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_img_cancel.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_ok_pressed.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\btn_ok_pressed.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_pin.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_pin.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ssdk_oks_skyblue_platform_list_item_selected.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_editpage_bg.9.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_bg.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_neteasemicroblog_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_neteasemicroblog_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_bombbox.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\bg_bombbox.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\raw_config.properties.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\raw\\config.properties"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_wechatmoments.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_dropbox.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_dropbox.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_geo.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ssdk_oks_classic_platform_corners_bg.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_location.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_normal_layout.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_logo.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_baidutieba.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_baidutieba.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_yixinmoments.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_popup.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_kaixin.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kaixin.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_ssdk_oks_skyblue_share_actionbar.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_instagram.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_instagram.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_qzone_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_auth_follow_cb_unc.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_actionbar_back_btn.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_instapaper_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_instapaper_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_left_in.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\anim\\activity_left_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_renren_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_renren_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_kakaostory.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_kakaostory.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_youdao_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_youdao_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_btn_back_nor.9.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_btn_back_nor.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_mingdao_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_mingdao_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_flickr_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_flickr_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_flickr.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_flickr.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_shortmessage.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_shortmessage.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dialog_bottom_bg.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\dialog_bottom_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_evernote.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_evernote.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_tumblr.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_tumblr.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ssdk_oks_ptr_ptr.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radiobtn_selector.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable\\radiobtn_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_twitter.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_twitter.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_0.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\layout_0.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_sohumicroblog.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sohumicroblog.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_qq_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_gcoding.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_title_div.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_email_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_email_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_douban_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_douban_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radiobtn_bg.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable\\radiobtn_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_bluetooth_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_line_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_line_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gray2.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-hdpi\\gray2.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_renren.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_renren.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ssdk_oks_skyblue_platform_list_selector.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_neteasemicroblog.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_neteasemicroblog.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_instapaper.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_instapaper.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_instagram_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_instagram_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_qzone.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_laiwangmoments_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_laiwangmoments_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_qq.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_qq.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_alipayshare.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_alipayshare.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_blue_point.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_blue_point.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_evernote.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_evernote.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_twitter_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_twitter_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_skyblue_logo_kakaotalk_checked.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kakaotalk_checked.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_oks_logo_laiwang.png.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_laiwang.png"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\layout_ssdk_oks_skyblue_editpage_inc_image_layout.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_left_out.xml.flat",
+        "source": "E:\\Users\\Administrator\\Desktop\\Middleware_customs\\app\\src\\main\\res\\anim\\activity_left_out.xml"
+    }
+]
